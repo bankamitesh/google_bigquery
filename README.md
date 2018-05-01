@@ -33,3 +33,5 @@ pip install -r requirements.txt
 
 
 Follow all Steps  in https://cloud.google.com/bigquery/docs/reference/libraries for Python
+
+Code for Creating New Dataset, schema, tables, pushing data to table and to query data is in the python file main.py.
