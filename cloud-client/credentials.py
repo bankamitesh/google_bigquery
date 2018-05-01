@@ -14,7 +14,7 @@ def explicit():
     # Explicitly use service account credentials by specifying the private key
     # file.
     storage_client = storage.Client.from_service_account_json(
-        'Documents/yuktix-67752e973e8e.json')
+        'path to json key file')
 
     # Make an authenticated API request
     buckets = list(storage_client.list_buckets())
