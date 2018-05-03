@@ -23,11 +23,11 @@ ENABLE THE API (https://console.cloud.google.com/flows/enableapi?apiid=bigquery)
 
 Before you begin make sure you have :- 
 
-An understanding of BigQuery concepts and terminology.
+1. An understanding of BigQuery concepts and terminology.
 Try the BigQuery Quickstart (https://cloud.google.com/bigquery/quickstart-web-ui) to get familiar with common BigQuery tasks.
-A project with the BigQuery API enabled.
+2. A project with the BigQuery API enabled.
 Applications that use BigQuery must be associated with a Google Cloud Platform Console (https://console.cloud.google.com/) project with the BigQuery API enabled.
-A local development environment (Python).
+3. A local development environment (Python).
 
 Download the code for the sample command-line application and navigate into the app directory:
 
