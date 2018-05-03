@@ -31,14 +31,11 @@ Applications that use BigQuery must be associated with a Google Cloud Platform C
 
 Download the code for the sample command-line application and navigate into the app directory:
 
-Clone the samples repository to your local machine.
-
+1. Clone the samples repository to your local machine.
 git clone https://github.com/GoogleCloudPlatform/python-docs-samples
-
 Alternatively, you can download the sample (https://github.com/GoogleCloudPlatform/python-docs-samples/archive/master.zip) as a zip file and extract it.
 
-Change to the directory that contains the sample code:
-
+2. Change to the directory that contains the sample code:
 cd python-docs-samples/bigquery/cloud-client
 
 This sample uses the Google Cloud client libraries (https://cloud.google.com/bigquery/docs/reference/libraries) to make calls to the BigQuery API.
