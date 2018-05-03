@@ -6,7 +6,7 @@ Create A Simple Application with API
 (https://cloud.google.com/bigquery/create-simple-app-api)
 
 Needed :- 
-Google account
+Google account,
 Credit/Debit Card
 
 QuickStart (https://cloud.google.com/bigquery/quickstart-web-ui)
